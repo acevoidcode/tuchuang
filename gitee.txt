@@ -1,0 +1,22 @@
+Gitee token:
+6d3890193be1ad7370265ec62fbf3eac
+
+Gitee Token:2022.12.20.14:33
+b90596d289c17bfca4cfed3a9dcdf62a
+
+GitHub token:
+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
+
+
+打开域名解析网站： https://ping.eu/nslookup
+然后输入 raw.githubusercontent.com
+
+打开本机的 hosts 文件，其路径如下：
+, 然后添加如下内容：
+
+Hosts文件路径：C:\Windows\System32\drivers\etc\hosts
+
+185.199.111.133 raw.githubusercontent.com
+185.199.109.133 raw.githubusercontent.com
+185.199.108.133 raw.githubusercontent.com
+185.199.110.133 raw.githubusercontent.com
